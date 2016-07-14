@@ -1,0 +1,31 @@
+@import 'util.scss';
+@import 'reset.scss';
+
+body { display: -webkit-box; display: flex; display: -webkit-flex; flex-direction: column; -webkit-flex-direction: column; box-orient: vertical; -webkit-box-orient: vertical; background-color: #ebebeb;}
+.main { flex:1; -webkit-flex: 1; box-flex: 1; -webkit-box-flex: 1; position: relative; padding: 30px 20px 0;}
+
+h1 { font-size: 18px; height: 40px; line-height: 40px; color: #333; padding-left: 49px; background: url(../images/shop.svg) 0 0 no-repeat; background-size: auto 100%; -webkit-background-size: auto 100%;}
+.money-ipt { display: -webkit-box; display: flex; display: -webkit-flex; height: 73px; line-height: 73px; background-color: #fff; border: 1px solid #d8d8d8; border-radius: 5px; font-size: 16px; color: #999; padding: 0 20px 0 15px; margin-top: 25px;
+    dd { text-align: right; font-size: 20px; color: #040404; flex: 1; -webkit-flex:1; box-flex: 1; -webkit-box-flex: 1;}
+}
+footer { padding-bottom: 20px; font-size: 12px; line-height: 12.5px; text-align: center;
+    img { width: 40px; height: 12.5px; vertical-align: -2px;}
+}
+
+.number-input { background-color: #fff; display: -webkit-box; display: flex; display: -webkit-flex; overflow: hidden;
+    .numbers {
+        &:nth-child(1) { width: 75%;}
+        &:nth-child(2) { width: 25%;
+            button { width: 100%; border-right: 0;}
+        }
+    }
+    button { float: left; width: 33.33333%; background: none; border: 0; height: 62px; line-height: 62px; text-align: center; font-size: 22px; border-right: 1px solid #d9d9d9; border-top: 1px solid #d9d9d9;
+        &.pay-btn { line-height: 1.2; height: 186px; background-color: #7fdc7c; color: #fff;
+            &:active { background-color: #75cc72;}
+        }
+        &.zero { width: 66.66666%;}
+        &.delete { font-size: 0; line-height: 0; overflow: hidden; background: url(../images/delete.svg) 50% no-repeat; background-size: 32px auto;}
+        &:disabled { background-color: #bfe1be;}
+        &:active { background-color: #f3f3f3;}
+    }
+}

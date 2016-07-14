@@ -1,0 +1,40 @@
+<svg id="商户icon" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #21bee0;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_1" data-name="椭圆 1" class="cls-1" cx="40" cy="40" r="40"/>
+  <rect id="圆角矩形_3" data-name="圆角矩形 3" class="cls-2" x="23" y="32" width="34" height="29"/>
+  <rect id="圆角矩形_4" data-name="圆角矩形 4" class="cls-2" x="43" y="36" width="14" height="25"/>
+  <path id="圆角矩形_2" data-name="圆角矩形 2" class="cls-3" d="M65.3,210H94.7l6.3,6H59Zm1.7-3H93a1,1,0,0,1,0,2H67A1,1,0,0,1,67,207Z" transform="translate(-40 -188)"/>
+  <path id="圆角矩形_2_拷贝" data-name="圆角矩形 2 拷贝" class="cls-4" d="M19,28H29a0,0,0,0,1,0,0v9a5,5,0,0,1-5,5h0a5,5,0,0,1-5-5V28A0,0,0,0,1,19,28Z"/>
+  <path id="圆角矩形_2_拷贝_2" data-name="圆角矩形 2 拷贝 2" class="cls-4" d="M27,28H37a0,0,0,0,1,0,0v9a5,5,0,0,1-5,5h0a5,5,0,0,1-5-5V28A0,0,0,0,1,27,28Z"/>
+  <path id="圆角矩形_2_拷贝_3" data-name="圆角矩形 2 拷贝 3" class="cls-4" d="M35,28H45a0,0,0,0,1,0,0v9a5,5,0,0,1-5,5h0a5,5,0,0,1-5-5V28A0,0,0,0,1,35,28Z"/>
+  <path id="圆角矩形_2_拷贝_3-2" data-name="圆角矩形 2 拷贝 3" class="cls-4" d="M43,28H53a0,0,0,0,1,0,0v9a5,5,0,0,1-5,5h0a5,5,0,0,1-5-5V28A0,0,0,0,1,43,28Z"/>
+  <path id="圆角矩形_2_拷贝_4" data-name="圆角矩形 2 拷贝 4" class="cls-4" d="M51,28H61a0,0,0,0,1,0,0v9a5,5,0,0,1-5,5h0a5,5,0,0,1-5-5V28A0,0,0,0,1,51,28Z"/>
+  <rect id="圆角矩形_5" data-name="圆角矩形 5" class="cls-5" x="47" y="46" width="2" height="8" rx="1" ry="1"/>
+</svg>

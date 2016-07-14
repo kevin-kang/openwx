@@ -1,0 +1,34 @@
+doctype html
+html
+    head
+        meta(charset='UTF-8')
+        meta(name='viewport' content='width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no')
+        meta(name='format-detection' content='telephone=no')
+        meta(name='apple-mobile-web-app-capable' content='yes')
+        meta(name='apple-mobile-web-app-status-bar-style' content='black')
+        title 向商户付款
+        link(rel='stylesheet' href='scss/style.css')
+    body
+        .main
+            h1 #{shopname}
+            dl.money-ipt
+                dt 消费金额：
+                dd 
+                    strong ￥0.00
+        footer 由 <img src="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAZCAQAAADqZqrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAHdElNRQfgBw0OMx0HKZEMAAAEzUlEQVRYw6XXf2zV1RkG8E/b26blhwJ2yGitY8U5NEJlbkboRIMSZxWbqItREU3IZkzGxrJNF/7gR5aFxaiFGY0QoNtqDImKCNQtumi0GkRiLrrBEEFSWnUZg7KuA+mA/XFPT7+99/Z6y54/7nnOe85573Pec857zrdkGzDd7gxxp+cNxSQPRr7DH7Nam3wbdFsXLDdojK1tPgbjVPmsgN+XpBMtd/tO5CubjmZIKhjuD+VRW8lxuSzy1VlSK6w1Gfwi2iYm+vf5gw41Ku3WUMDvoSFS51kYeYsgtRSUuyc0POcLI8H3g9CTPtWsWTk6Eu2NPleuEtONG5HnHGSi+j0TQ711hOOXhLJSGxivR6cutcE+C69biBKNthX0NcYdgU1NWO/YfgT8PiN1cTB3qnXIkaKFXmtmYK/pA/2gw13BXu2b3tDsM92qvsRbtY15rI+Gsi2FateHap3NrvczY7Jmm5ijMRbF2k9DuUXzkBGDUpltfVirsSqcAqM8hQmJEYtcl3Ocs5DCvWHHDqDR+cP2r3FV5PXmB9aS1evtBP+RWWrVqTHWleHwVCSOzcCEZttqCsa7VXtc2fGm6HHMcadTBk//AG6JeSGDqTEN8YJViWgvDawhnu5WT6qJOxVmmJEz4f94AHVWRMt6Hd4z00JNyu2yK9hvtDawspSGHFcdWfWeBO+KTrjSr3NEbI65ZBCP2eewbl2OBcsprWhISO3QivddEKbeHsOUwZmmM6mcmBaPPVabZ1qo9dqAXkt16zI/HlXe8WKRHtPmhpUYQH0MkZTL7VajOmfYta6Opy8/dtqpNUo96icQIn0mIXX2iKU25Eg9SKkbNXg2Z9BErVaGK/Nc8K7Tkd9lo1ft1ZtzX2Vj4HKfanRgXx+Umso75GLbTEG72705rOMGzYk/H2c5WvxSrVo1iawyuYhNVucJP4+Xa6kr7EC18wpLXWBNuASr/dnjnhtW6rJE7XzLsDHxFhjE77yl22H7h5W6Amv8zSkVYIYdiZgOK/VljX4QeIdn4syykbZCczwCx7Wg19MO69Ltcmtiz/3W5xlfnuD/8KSj+u0J65T5HbxgD+SXetwP7fUENlmgf9gdlpb2tSi1x3LwUKj/NSH1uzljZ7rffYn6w+FSTYd/y3itj+3D7lVafMNV7gt3+rng7z6OUblGqRqLrfNRsLS70NlE7wGeDuV0pc7EDdDbdGR4qTyiLtzYxeF0juXtKPU8r5irLJFp/uSAXbbnjBnIAaPV2x+jegBZt38S//KXEUWxN4/UQczTb61Dsb7QSp/m8ZKOrMGQrFooqv8/0gn+gblFPS57dKoDl6kKz/YgtbSI4eeCemu8nqhPKPoVnPaFTW72q6GpqrioVhRoOxjZV1U5AeZYYr4SZ31uUmitdal9BfyexaWq0OZR/8YV5gw2b5/S9ElhqTMtxrcSluwk3upho8BE+xy0yjxL0GeD1S7xSuz5lj0Whe9XHjEtkcJO24lNeZ6LGTxli+aM1A9tiebkQtVlPYFfy0nlnW7T5kJwkYu0mqDTb61zHAf82G9Ugq+Yk/ieuCkRs396yF5fipKCX2apELHMEvU7md+HKmVKwAkl+odkzDKVygLviyltVNh6Z/3XydB/dOyXi/6mE/8DjT8ycDNsUv0AAAAASUVORK5CYII=" width="40" height="12.5" /> 提供技术支持
+        .number-input
+            div.numbers
+                button 1
+                button 2
+                button 3
+                button 4
+                button 5
+                button 6
+                button 7
+                button 8
+                button 9
+                button.zero 0
+                button.dot .
+            div.numbers
+                button.delete delete
+                button.pay-btn(disabled) 确认<br>支付

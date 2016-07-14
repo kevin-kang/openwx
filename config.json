@@ -1,0 +1,6 @@
+{
+    "dev": "http://10.100.140.124:8090/pay-adapter",
+    "test": "http://10.100.140.124:8090/pay-adapter",
+    "repro": "http://10.100.140.139:8090/pay-adapter",
+    "pro": "https://api.fuqian.la"
+}
