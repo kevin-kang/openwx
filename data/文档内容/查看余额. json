@@ -1,0 +1,38 @@
+[
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">1</span><span style=\"font-family:宋体;\">）点击首页导航“账户管理</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">银行账户查询”，此界面含有所有银行账户的余额信息，点击“高级筛选”按钮输入查询条件，点击“查询”按钮，显示查询结果。</span><span style=\"font-family:&quot;\"></span> \n</p>\n<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">2</span><span style=\"font-family:宋体;\">）点击“明细”按钮，查看账户在指定时间段的交易详情。</span>",
+            "title": "如何查询银行账户余额？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">1</span><span style=\"font-family:宋体;\">）点击首页导航“账户管理</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">内部账户查询”，此界面含有所有内部账户的余额信息，输入查询条件，点击“查询”按钮，显示查询结果。</span><span style=\"font-family:&quot;\"></span> <span style=\"font-family:宋体;\"><br />\n</span>\n</p>\n<p>\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">2</span><span style=\"font-family:宋体;\">）点击“明细”按钮，查看账户在指定时间段的交易详情。</span>\n</p>",
+            "title": "如何查询内部账户余额明细？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">在余额查询页面，点击“导出”按钮，浏览器弹出提示后点击“打开”或者“保存”按钮即可。</span>",
+            "title": "如何将查询结果导出到本地？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">并不是每个企业都拥有内部账户，只</span><span style=\"font-family:宋体;\">有资金划拨业务的企业才有内部账户</span><span style=\"font-family:宋体;\">，每个集团企业和成员企业的资金往来就会在内部账户中记录，用于核对交易。</span>",
+            "title": "内部账户的用途?"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">每个企业都有银行账户，用于核对交易。拥有资金划拨业务的用户，平台专门为其开设内部账户，方便用户对资金上划或下拨的频繁操作时记账。</span>",
+            "title": "内部账户与银行账户区别？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">如果只有报销、代发、付款业务，无资金划拨业务的企业，将没有内部账户权限，门户中将看不到内部账户相关信息。</span>",
+            "title": "如果企业只有报销、代发、付款业务，是否可以拥有内部账户权限？"
+        }
+    }
+]

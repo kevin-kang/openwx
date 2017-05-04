@@ -1,0 +1,50 @@
+[
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）首页“业务审核”下拉菜单中选择所需审核的业务类型，进入该业务的“审核订单查询”页面</span><span>, </span><span style=\"font-family:宋体;\">此页面包括该业务的所有订单。</span><span></span> \n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）通过“高级筛选”中的输入查找条件，点击“查询”按钮，</span><span style=\"font-family:宋体;\">显示查询结果</span><span style=\"font-family:宋体;\">。</span><span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>3</span><span style=\"font-family:宋体;\">）点击“审核”按钮，核对相关信息，填写“审核意见”，点击“审核通过</span><span>/</span><span style=\"font-family:宋体;\">审核拒绝”或“取消”按钮。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">温馨提示：“业务审核”列表只有审核权限的人员才可见。</span>",
+            "title": "如何审核单笔订单业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">首页导航中选择“业务审核”下拉菜单中业务类型，进入页面，点击“审核订单查询”，点击操作中的“审核”按钮，进行审核。</span>",
+            "title": "如何进入单笔审核页面？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">只有审核权限的人员，才可以在导航中看到“业务审核”列表，审核订单。</span>",
+            "title": "什么岗位可以进行审核操作？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）首页“支付结算”下拉菜单中选择所需审核的业务类型，进入该业务的审核批次查询页面</span><span>, </span><span style=\"font-family:宋体;\">该页面有此业务的所有批次订单。</span><span></span> \n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）输入查找条件，点击“查询”按钮，</span><span style=\"font-family:宋体;\">显示查询结果</span><span style=\"font-family:宋体;\">。</span><span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>3</span><span style=\"font-family:宋体;\">）点击“审核”按钮，核对数据信息是否正确，填写“审核意见”，点击“审核通过</span><span>/</span><span style=\"font-family:宋体;\">审核拒绝”按钮。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">温馨提示：“业务审核”列表只有审核权限的人员才可见。</span>",
+            "title": "如何批量审核订单业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">首页</span><span>-</span><span style=\"font-family:宋体;\">“业务审核”下拉菜单中，选择所需审核的业务类型，进入该业务的审核批次查询页面，点击“导出”按钮，即可将该业务的所有审核数据保存到本地。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">温馨提示：“业务审核”列表只有审核权限的人员才可见。</span>",
+            "title": "如何导出批量审核的业务数据？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）首页“业务审核”下拉菜单中选择资金划拨业务，进入该业务的“资金划拨手工单审核”页面。</span><span></span> \n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）点击“高级筛选”，输入查询条件，点击“查询”按钮，</span><span style=\"font-family:宋体;\">显示查询结果</span><span style=\"font-family:宋体;\">。</span><span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>3</span><span style=\"font-family:宋体;\">）点击“审核”按钮，核对相关信息，填写“审核意见”，点击“审核通过</span><span>/</span><span style=\"font-family:宋体;\">审核拒绝”按钮。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">温馨提示：“业务审核”列表只有审核权限的人员才可见。</span>",
+            "title": "如何审核划拨单业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">此业务是在系统后台新建和审核，门户将无法审核，只能查询。</span>",
+            "title": "为何不能审核资金划拨系统单？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">资金划拨规则需要在系统后台配置完成，门户只能对其操作启用或停用。</span>",
+            "title": "资金划拨规则为何不能在门户审核？"
+        }
+    }
+]

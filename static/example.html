@@ -1,36 +1,128 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=no">
-    <title>付钱拉H5支付示例</title>
-    <script src="http://cdn.bootcss.com/zepto/1.1.6/zepto.min.js"></script>
-    <script src="http://10.100.140.103:8888/jssdk/h5jssdk.2.2.js"></script>
-    <link rel='stylesheet' href='css/style.css'>
+    <title>测试</title>
     <style>
-        button { width: 100%; height: 35px; border-radius: 5px; font-size: 14px; color: #fff; background-color: #000; border: 0;}
+        button { background-color: #000; color: #fff; width: 100%; border-radius: 15px; height: 30px; border: 0; outline: none; margin-bottom: 20px;}
     </style>
+    <script src="http://lib.fuqian.la/h5jssdk.4.0.js"></script>
 </head>
-<body>
-    <button>支付</button>
+<body class="tesst">
+
+    <button id="listpay">列表支付</button>
+    <button id="alipay">支付宝</button>
+    <button id="wxpay">微信支付</button>
+    <button id="ylpay">银联支付</button>
+    <button id="bdpay">百度支付</button>
+    <button id="jdpay">京东支付</button>
+    <button id="ybpay">易宝支付</button>
     <script>
-        FUQIANLA.init({
-            ele : 'button',
-            appId : 'appdcd3fafe632346a8beabed17356d1ce8',
-            clientIp : '127.0.0.1',
-            debug : false,
-            orderId : Date.now()+'mzd1',
-            merchId : 'm1604120003',
-            currency : 'CNY',
-            amount : '0.01',
-            subject : '公众号支付测试',
-            body : '商品内容',
-            channel : 'wx_pay_pub',
-            notifyUrl : 'http://zgf.ittun.com/wx-pub-bg/services/receiveNotify',
-            extra : {
-                openid : 'oTkY1swZfaNu8Gf8vScXu__3fz5E'
-            }
+        var notifyUrl = 'http://10.106.65.132:8091/asyncnotify';
+
+        document.querySelector('#listpay').addEventListener('click', function(){
+            FUQIANLA.init({
+                app_id: 'TAzD7KX0CCb5X32SIX5oXA',
+                order_no: Date.now(),
+                amount: '1',
+                channel: '',
+                subject: 'h5测试数据',
+                notify_url: notifyUrl,
+                extra:{
+                    jd_pay_wap: {
+                        return_url: 'http://fuqian.la'
+                    },
+                    yb_pay_wap: {
+                        productcatalog: 30,
+                        identityid: '132xxd12390765591'
+                    }
+                }
+            });
         });
+
+        document.querySelector('#alipay').addEventListener('click', e => {
+            FUQIANLA.init({
+                app_id: 'TAzD7KX0CCb5X32SIX5oXA',
+                order_no: Date.now(),
+                amount: '1',
+                channel: 'ali_pay_wap',
+                subject: 'h5测试数据',
+                notify_url: notifyUrl
+            });
+        });
+
+        document.querySelector('#wxpay').addEventListener('click', e => {
+            FUQIANLA.init({
+                app_id: 'wTyXolAxY09QUuiuXw5dvg',
+                order_no: Date.now(),
+                amount: '1',
+                channel: 'wx_pay_pub',
+                subject: 'h5测  试   数   据 aaa',
+                notify_url: 'http://10.106.65.132:8091//asyncnotify',
+                optional: 'type=type,payment=paytype,money=paymoney,devicetype=2',
+                extra: {
+                    openid: 'odKIlw0xYWR0mqXZ4VHER611W990',
+                    cb: data => {
+                        console.log(data);
+                    }
+                }
+            });
+        });
+
+        document.querySelector('#ylpay').addEventListener('click', e => {
+            FUQIANLA.init({
+                app_id: 'TAzD7KX0CCb5X32SIX5oXA',
+                order_no: Date.now(),
+                amount: '1',
+                channel: 'yl_pay_wap',
+                subject: 'h5测试数据',
+                notify_url: notifyUrl,
+                extra: {
+                    return_url: 'http://fuqian.la'
+                }
+            });
+        },false);
+
+        document.querySelector('#bdpay').addEventListener('click', e => {
+            FUQIANLA.init({
+                app_id: 'TAzD7KX0CCb5X32SIX5oXA',
+                channel: 'bd_pay_wap',
+                order_no: Date.now(),
+                amount: '1',
+                subject: 'h5测试数据',
+                notify_url: 'http://fuqian.la'
+            });
+        },false);
+
+        document.querySelector('#jdpay').addEventListener('click', e => {
+            FUQIANLA.init({
+                app_id: 'TAzD7KX0CCb5X32SIX5oXA',
+                channel: 'jd_pay_wap',
+                order_no: Date.now(),
+                amount: '1',
+                subject: 'h5测试数据',
+                notify_url: notifyUrl,
+                extra: {
+                    return_url: 'http://fuqian.la'
+                }
+            });
+        },false);
+
+        document.querySelector('#ybpay').addEventListener('click', e => {
+            FUQIANLA.init({
+                app_id: 'TAzD7KX0CCb5X32SIX5oXA',
+                channel: 'yb_pay_wap',
+                order_no: Date.now(),
+                amount: '1',
+                subject: 'h  aadad   df sdf5测  试   数据',
+                notify_url: notifyUrl,
+                extra: {
+                    productcatalog: 30,
+                    identityid: '132xxd12390765591'
+                }
+            });
+        },false);
     </script>
 </body>
 </html>

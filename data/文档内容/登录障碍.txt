@@ -1,0 +1,74 @@
+[
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;color:black;\">根据项目目前的软硬件配置条件和计算机软件应用的实际情况，在具备网络应用环境的情况下，为使软件操作简单，界面友好，便于学习和掌握，因而该软件是基于</span><span style=\"color:black;\">Microsoft&nbsp;Windows</span><span style=\"font-family:宋体;color:black;\">桌面操作系统，为确保软件正常安装运行，必须满足最基本的软硬件配置需求。</span><span style=\"color:black;\"></span> \n</p>\n<p>\n\t<br />\n<img src=\"http://10.100.141.29/epm/images/helpCenterInfo/20160722165435-c2b0a4808c1b485e80fcc36486c38a83.png\" alt=\"\" /> \n</p>",
+            "title": "该软件运行环境的硬件有哪些要求？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\" style=\"text-align:left;\" align=\"left\">\n\t<span style=\"font-family:宋体;color:black;\">解决办法一：更换兼容浏览器如：火狐，</span><span style=\"color:black;\">IE8</span><span style=\"font-family:宋体;color:black;\">以上版本</span><span style=\"color:black;\"></span> \n</p>\n<p class=\"MsoNormal\" style=\"text-align:left;\" align=\"left\">\n\t<span style=\"font-family:宋体;color:black;\">解决办法二：下载证书，并运行，点击该网站上“始终运行”。</span>\n</p>",
+            "title": "使用浏览器登录时，插入ukey后浏览器无法获取ukey信息怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\" style=\"text-align:left;\" align=\"left\">\n\t<span style=\"font-family:宋体;color:black;\">解决办法一：急需登录请联系管理员，提供用户名，管理员帮助解锁。</span><span style=\"color:black;\"></span> \n</p>\n<span style=\"font-family:宋体;color:black;\">解决办法二：第二天会自动解锁，次日再试。</span>",
+            "title": "登录时密码连续输错5次ukey被锁定，怎么办?"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;color:black;\">重新插回</span><span style=\"color:black;\">ukey</span><span style=\"font-family:宋体;color:black;\">，再次导入或新建。</span>",
+            "title": "在登录成功后，拔出ukey，无法新建怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;color:black;\">系统出于安全考虑，长时间无操作</span><span style=\"color:black;\">session</span><span style=\"font-family:宋体;color:black;\">会失效，重新登录就好。</span>",
+            "title": "用户登录后，长时间没有操作怎么还得重新登录？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;color:black;\">更换兼容性好的浏览器，如：火狐，</span><span style=\"color:black;\">IE8</span><span style=\"font-family:宋体;color:black;\">以上版本。</span>",
+            "title": "登录后浏览器页面显示异常，怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;color:black;\">请联系客服重置密码。</span>",
+            "title": "用户忘记密码怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">现象：客户已经下载了控件，并且安装了控件，但是每次点击“点击获取登陆用户名”区域时，还是提示安装控件。</span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\"></span><span></span><span style=\"font-family:宋体;\">原因是安装完成后没有重启浏览器，请重启火狐浏览器，然后再尝试。</span> \n</p>",
+            "title": "火狐浏览器反复提示安装控件问题，怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">只是下载控件，不安装可执行文件的时候，用户再点击“点击获取登陆用户名”区域时，还会提示安装控件。所以反复提示安装控件的时候，请先确保控件是否顺利安装。</span>",
+            "title": "不安装控件只是保存控件，会有什么影响？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">该问题是因为</span><span>U</span><span style=\"font-family:宋体;\">盾中的驱动没有安装或者没有安装成功导致，</span><span style=\"font-family:宋体;\">遇到此问题，用户需要在电脑的程序菜单中寻找是否安装<span>U</span>盾的驱动程序，若没安装的话安装驱动后就没有这个问题了</span><span style=\"font-family:宋体;\">。</span>",
+            "title": "已经插入U盾了，但还是提示“请确保U盾插入”，怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;color:black;\">（</span><span style=\"color:black;\">1</span><span style=\"font-family:宋体;color:black;\">）</span><span style=\"color:black;\">Microsoft&nbsp;Windows</span><span style=\"font-family:宋体;color:black;\">桌面操作系统软件，支持</span><span style=\"color:black;\">Micorosft&nbsp;Windows&nbsp;2000</span><span style=\"font-family:宋体;color:black;\">、</span><span style=\"color:black;\">Windows&nbsp;XP</span><span style=\"font-family:宋体;color:black;\">、</span><span style=\"color:black;\">Windows&nbsp;Vista</span><span style=\"font-family:宋体;color:black;\">、</span><span style=\"color:black;\">Windows&nbsp;7</span><span style=\"font-family:宋体;color:black;\">、</span><span style=\"color:black;\">Windows&nbsp;8</span><span style=\"font-family:宋体;color:black;\">操作系统，建议使用</span><span style=\"color:black;\">Windows&nbsp;7</span><span style=\"font-family:宋体;color:black;\">；</span><span style=\"color:black;\"></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;color:black;\">（</span><span style=\"color:black;\">2</span><span style=\"font-family:宋体;color:black;\">）</span><span style=\"color:black;\">Microsoft&nbsp;Office&nbsp;2010&nbsp;</span><span style=\"font-family:宋体;color:black;\">、</span><span style=\"color:black;\">Office&nbsp;2003</span><span style=\"font-family:宋体;color:black;\">、</span><span style=\"color:black;\">Office&nbsp;2007</span><span style=\"font-family:宋体;color:black;\">办公软件</span><span style=\"color:black;\">;</span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;color:black;\">（</span><span style=\"color:black;\">3</span><span></span><span style=\"font-family:宋体;color:black;\">）病毒防护软件；</span><span style=\"color:black;\"></span> \n</p>\n<span style=\"font-family:宋体;color:black;\">（</span><span style=\"color:black;\">4</span><span style=\"font-family:宋体;color:black;\">）目前翼启云服支持的浏览器版本有：</span><span style=\"color:black;\">IE8, IE9, IE10, IE11,<span>chrome35.01916</span>,\nFirefox</span><span style=\"font-family:宋体;color:black;\">等。</span>",
+            "title": "支持软件客户程序软件有哪些？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">请关闭浏览器，重新打开登录，如若问题依然存在请拨打</span><span style=\"font-size:10.5pt;font-family:&quot;\">400</span><span style=\"font-size:10.5pt;font-family:宋体;\">客服热线，或者联系在线客服。</span>",
+            "title": "如果遇到页面显示异常，或者404错误。"
+        }
+    }
+]

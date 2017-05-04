@@ -1,0 +1,50 @@
+[
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">首先核对导入的数据信息是否正确，如果有提示失败原因时，根据“失败原因”排查问题所在，如果尚未找到原因，<span style=\"color:black;\">请拨打</span></span><span style=\"color:black;\">400</span><span style=\"font-family:宋体;color:black;\">客服热线，或者联系在线客服反馈。</span>",
+            "title": "批次订单状态显示失败，该怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）导入的模板里，填写开户行时，必须加入总行名称，例如：总行名称为：“平安银行”，支行名称为：“万达支行”，那么在导入模板中，填写支行信息时，需填写：“平安银行万达支行”。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）模板内容需要填写完整，并保证准确无误。</span>",
+            "title": "填写模板信息时需注意什么？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">“部分成功”是指：订单状态显示部分订单成功。</span>",
+            "title": "批次状态为“部分成功”是什么意思？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">是因为部分成功导致，成功金额是根据成功单子总金额计算的。</span>",
+            "title": "付款金额和订单成功金额不一致，是何原因？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击批次查询页面的“导出”按钮，可将信息保存到本地。</span>",
+            "title": "如何保存批次信息到本地？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击“导入”按钮后，选择企业名称，并上传该企业文件时，确保是该企业发起的批次。</span>",
+            "title": "批次导入时需注意什么？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">资金划拨业务不支持批次业务，只有手工单和系统单业务。</span>",
+            "title": "金划拨为何没有批次查询？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">进入批次查询页面，点击列表中单个“详情”，可查询批次中所有信息。</span>",
+            "title": "如何查询单个批次的具体信息？"
+        }
+    }
+]

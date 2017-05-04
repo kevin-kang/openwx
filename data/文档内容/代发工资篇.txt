@@ -1,0 +1,38 @@
+[
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择首页导航</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">“企业结算”下拉列表中的</span><span style=\"font-family:&quot;\"> </span><span style=\"font-family:宋体;\">“代发工资”，点击</span><span style=\"font-family:宋体;\">业务的“订单查询”页面</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">“新建”按钮，打开新建单笔代发工资订单，输入代发工资信息并提交审核。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<p>\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920154316-cb08b3b821d9441d87148f63ace57488.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920154327-5c0713fa25b64a018c1f8d780320b621.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920154343-2b30fa0880534172aa47d659ae07707d.jpg\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "1、单笔订单新建业务"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择业务“订单查询”页面，点击“高级筛选”，输入查询条件，点击“查询”按钮，弹出业务订单，点击订单右侧“详情”按钮，即可查看订单详细信息。如图所示：</span> \n</p>\n<p>\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155002-a7a336c834d248d9b32b96a33592ac99.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155013-7a62852201f540b88caf6763fa8686a1.jpg\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "2、单笔订单查询业务"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择首页导航</span><span style=\"font-family:&quot;\"></span><span style=\"font-family:宋体;\">“支付结算--</span><span style=\"font-family:宋体;\">代发工资”，</span><span style=\"font-family:宋体;\">点击“代发工资</span><span style=\"font-family:&quot;\">--</span><span style=\"font-family:宋体;\">批次查询”页面模板下载按钮下载模板，并按照模板格式填写相关信息。</span> \n</p>\n<p>\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155103-068ab0c2a3a24a1ba3a92fbdf8e13792.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155109-2c20c3f3b71c4c40ab234d0b246b2249.jpg\" alt=\"\" /><br />\n</span> \n</p>\n<p>\n\t<span style=\"font-family:宋体;\"> </span>\n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">点击“导入”按钮，打开导入弹框，选择相关信息及填写好的模板，点击“上传”按钮，并提交审核。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155126-c889645a67b3412f8ac9fd2ecc69416b.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155134-69657e7406db4b68ababb2a002bfc07f.jpg\" alt=\"\" /><br />\n<p>\n\t<br />\n</p>",
+            "title": "3、批次订单导入业务"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">点击“代发工资</span><span style=\"font-family:&quot;\">--</span><span style=\"font-family:宋体;\">批次查询”页面，输入查询条件，点击“查询”按钮，显示所查询的订单，点击订单右侧“详情”按钮，查看订单详细内容。如图所示：</span> \n</p>\n<p>\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155220-1411021949c549f889ab64c430e99c35.jpg\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "4、代发工资批次查询"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择“业务审核</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">代发工资”项，点击“审核订单查询”页面，此</span><span style=\"font-family:宋体;\">页面显示所有待审核的代发工资订单，点击“审核”按钮，弹出的页面有订单的明细，输入“审核意见”（必填项）进行审核（通过或拒绝）或取消。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<p>\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155242-61130ee75c474e768dae2480cf89bc2c.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155249-47a6dcecf6c14c059de0f6b182ea156e.jpg\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "5、审核单笔订单业务（审核人员可见）"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择“首页导航</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">业务审核</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">代发工资”项，此</span><span style=\"font-family:宋体;\">页面显示所有待审核批次，<span>每笔订单项末尾都有“审核”按钮，点击“审核”按钮，输入审核意见（必填项）进行审核（通过或拒绝）或取消。（</span></span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<p>\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155307-e8a242008d0d494e8df40819d84db388.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155314-e8571adde85443ea92a2bed2c730fd42.jpg\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "6、审核批次订单业务（审核人员可见）"
+        }
+    }
+]

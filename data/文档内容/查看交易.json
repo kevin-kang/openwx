@@ -1,0 +1,44 @@
+[
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">用于企业发生交易之后，记录每笔交易的支出和收入明细。</span>",
+            "title": "门户对账单有何用途？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">可模糊搜索企业名称进行查找。</span>",
+            "title": "查找企业对账单，必须搜索企业全称吗？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">选择导航“业支付结算”中的业务类型，进入订单查询或批次查询页面，可通过单独查询或者组合查询条件，查看订单的详情。</span>",
+            "title": "提交订单后，如何查询订单详情？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">不能修改，只能删除，重新新建业务订单。</span>",
+            "title": "批次审核拒绝的订单，该如何处理？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">可以，修改后重新提交审核即可。</span>",
+            "title": "单笔订单审核拒绝，是否可以修改?"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）提交的订单后，用户只有审核通过，系统才会处理，订单状态也会由“处理中”变更为“已发送”；</span><span></span> <span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）等待交易返回结果后，用户可以查看交易情况，单笔订单状态将会显示为“成功”或“失败”，批次订单状态将显示为“部分成功”或“部分失败”。</span>",
+            "title": "正确提交订单后，多久可以查看到订单结果？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">打开已登录首页，点击业务订单区域“查看更多”按钮，页面跳转到业务订单查询页面。</span><span></span> \n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">以“企业付款”业务为例，如图所示：</span>\n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920144923-036ad5fcc436433080080a59c99245f4.png\" alt=\"\" /><br />\n</span> \n</p>\n<img src=\"http://10.100.141.29/epm/images/helpCenterInfo/20160725122131-a3ec63c946484e8693b0b5b2205d6667.png\" alt=\"\" />",
+            "title": "如何查询订单业务？"
+        }
+    }
+]

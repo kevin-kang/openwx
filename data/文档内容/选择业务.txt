@@ -1,0 +1,104 @@
+[
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页中的“支付结算</span><span>-</span><span style=\"font-family:宋体;\">代发工资”，进入订单查询页面，发起“新建”代发工资业务。</span>",
+            "title": "企业支付单个员工工资，如何选择业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页中的“支付结算</span><span>-</span><span style=\"font-family:宋体;\">企业报销”，进入订单查询页面，发起新建企业报销业务。</span>",
+            "title": "企业如何为单个员工进行报销？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">方法一：首页页面下方选择业务类型，则显示相应业务类型的最近十条订单状态。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">方法二：“首页</span><span>-</span><span style=\"font-family:宋体;\">支付结算”下拉菜单中选择所需的业务类型，进入该业务的“订单查询”页面，点击“详情”查看业务具体信息。</span>",
+            "title": "如何查看每笔订单状态及金额等详细信息？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页中的业务审核，下拉菜单中选择相应的审核业务，进入该业务的审核订单查询页面，发起单笔审核。</span>",
+            "title": "各项业务单笔订单审核，该如何操作？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">“首页</span><span>-</span><span style=\"font-family:宋体;\">业务审核”下拉菜单中选择所需审核的业务类型，进入该业务的“审核订单查询”页面，点击“审核”即可查看业务具体信息。</span>",
+            "title": "如何查询单笔订单审核状态？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页中的“支付结算</span><span>-</span><span style=\"font-family:宋体;\">代发工资”，进入代发工资批次查询页面，发起批次业务。</span>",
+            "title": "如果要给多人发工资，该选择何种业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页中的“支付结算</span><span>-</span><span style=\"font-family:宋体;\">企业报销”，进入企业报销批次查询页面，发起批次业务。</span>",
+            "title": "企业为多位员工报销，该选择何种业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页中的“支付结算</span><span>-</span><span style=\"font-family:宋体;\">对外付款</span><span>-</span><span style=\"font-family:宋体;\">付款单批次查询页面”，发起批次业务。</span>",
+            "title": "将批量款项支付给企业（或个人），该选择何种业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页中的支付结算，选择需要查询的业务类型，点击批次查询</span><span>-</span><span style=\"font-family:宋体;\">详情按钮即可。</span>",
+            "title": "如何查看每笔订单状态及金额等详细信息？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页“支付结算</span><span>-</span><span style=\"font-family:宋体;\">选择要查询的业务”打开相应业务的批次查询页面，输入查询条件，点击“查询”按钮即可。</span>",
+            "title": "如何查看历史业务批次订单？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">点击首页中的业务审核，下拉菜单中选择相应的审核业务，发起批量审核。</span>",
+            "title": "各项业务订单批量审核，该如何操作？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">选择首页中的“支付结算</span><span>-</span><span style=\"font-family:宋体;\">资金划拨</span><span>-</span><span style=\"font-family:宋体;\">资金划拨手工单查询”，点击“新增下拨单”按钮，发起此业务。如图所示：</span> \n</p>\n<p class=\"MsoNormal\">\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920145301-bae0fe2d7561414aade116085b2dec27.png\" alt=\"\" />\n</p>\n<br />",
+            "title": "中心企业付款给成员企业，该如何选择业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">选择首页中的“支付结算</span><span>-</span><span style=\"font-family:宋体;\">资金划拨</span><span>-</span><span style=\"font-family:宋体;\">资金划拨手工单查询”，点击“新增上划单”按钮，发起此业务。如图所示：</span> \n</p>\n<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920145321-6faf18cec4604ae7a714b0e7973c152c.png\" alt=\"\" /><br />",
+            "title": "成员企业付款给中心企业，该如何选择业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<img src=\"http://10.100.141.29/epm/images/helpCenterInfo/20160725120322-0e12e141284943a28ee2a83fb1061b9b.png\" alt=\"\" />",
+            "title": "自动划拨规则包括哪些类型？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">包括周期性归集和一次性归集。</span>",
+            "title": "自动划拨规则中包括哪些划拨周期？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\" style=\"text-align:left;\" align=\"left\">\n\t<span style=\"font-family:宋体;\">选择首页“业务处理</span><span>-</span><span style=\"font-family:宋体;\">资金划拨</span><span>-</span><span style=\"font-family:宋体;\">自动划拨规则查询”，查询相关中心企业信息，点击“停用</span><span>/</span><span style=\"font-family:宋体;\">启用”按钮即可。如图所示：</span><span></span> \n</p>\n<p>\n\t<br />\n<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20161021144953-b6b60c92c3d840b8b62f34ef4c8bf76b.png\" alt=\"\" />\n</p>",
+            "title": "如何停用/启用资金划拨规则业务？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">选择“首页</span><span>-</span><span style=\"font-family:宋体;\">支付结算</span><span>-</span><span style=\"font-family:宋体;\">资金划拨”，进入“资金划拨手工单查询”，点击“新建下拨单”，填写带</span><span>*</span><span style=\"font-family:宋体;\">的内容，并提交审核。</span>",
+            "title": "中心企业如何转账给成员企业资金？"
+        }
+    }
+]

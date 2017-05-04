@@ -1,0 +1,14 @@
+[
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">1</span><span style=\"font-family:宋体;\">）点击首页“账户管理</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">银行账户查询”，输入查询条件，点击“查询”按钮。（见下图）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920161133-f44a2506295e4701b234706a820d2ce5.png\" alt=\"\" />\n</p>\n<p>\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">2</span><span style=\"font-family:宋体;\">）点击“明细”按钮，查看账户在指定时间段的交易明细。（见下图）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920161145-553d0d606f9044fbb86bd69217150a40.png\" alt=\"\" /><br />\n<span style=\"font-family:宋体;\"></span> \n</p>",
+            "title": "1、查询银行账户余额明细"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">1</span><span style=\"font-family:宋体;\">）点击首页“账户管理</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">内部账户查询”，输入查询条件，点击“查询”按钮。（见下图）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920161312-2e57d85e5cfd4fc891ec204c262881f5.png\" alt=\"\" />\n</p>\n<p>\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">2</span><span style=\"font-family:宋体;\">）点击“明细”按钮，查看账户在指定时间段的交易明细。（见下图）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920161320-f28ba5a4eaa74d11b4ce5e317091f47f.png\" alt=\"\" /><br />\n<span style=\"font-family:宋体;\"></span> \n</p>",
+            "title": "2、查询内部账户余额明细"
+        }
+    }
+]

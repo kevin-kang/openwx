@@ -17,7 +17,7 @@ let args = process.argv,
     livePort = baseCMDStrArr[2] || 35729,
     webpackConfig = require(`./webpack.config.babel.js`), //根据gulp参数获取不同webpack配置文件
     devPath = `src/`, //开发目录
-    dest = `dest/`, //本地编译后目录
+    dest = `static/`, //本地编译后目录
     assets = dest, //默认目录为本地dest目录
     paths = [`${devPath}/**/*.+(scss|js|jpg|gif|png|svg|vue|jade)`, `!${devPath}/**/config.js`]; //文件路劲
 
@@ -127,7 +127,7 @@ gulp.task('server', () => {
 //打包测试，准生成，生产环境 --test, --repro, --pro 三个参数
 gulp.task('default', ['constants'], () => {
     if(baseCMDStrArr[0] == 'dev'){
-        gulp.start('watch', 'help');
+        gulp.start('server','watch', 'help');
     } else {
         gulp.start('webpack','help');
     }

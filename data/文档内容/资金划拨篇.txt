@@ -1,0 +1,26 @@
+[
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择首页导航“支付结算</span><span style=\"font-family:&quot;\">--</span><span style=\"font-family:宋体;\">资金划拨”，选择“资金划拨手工单查询”页面点击“新建上划单”按钮，输入划拨单详细信息（</span><span style=\"font-family:&quot;\">*</span><span style=\"font-family:宋体;\">号必填）并提交审核。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155558-b98ca1556478434eb14baa939a1e7565.png\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155606-11a5b1388c0a41dbbe86b66e6f73695e.png\" alt=\"\" /><br />\n<span style=\"font-family:宋体;\"></span> \n</p>",
+            "title": "1、新建上划单业务"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择“资金划拨手工单查询”页面点击“新建下拨单”按钮，输入划拨单详细信息并提交审核。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155909-9c6306f389c64c39a887d4495a1e16ad.png\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920155915-c6f2b2c2e684488dacea34f4808a5ec2.png\" alt=\"\" /><br />\n<span style=\"font-family:宋体;\"></span> \n</p>",
+            "title": "2、新建下拨单业务"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">1</span><span style=\"font-family:宋体;\">）“自动划拨规则查询”页面为停用状态的有“启用”操作，点击“启用”按钮，该规则由停用变为启用。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span>\n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20161115134827-894d76e4b2364702b8124b68c2e88b1e.png\" alt=\"\" />\n</p>\n<p>\n\t<span style=\"font-family:宋体;\">（</span><span style=\"font-family:&quot;\">2</span><span style=\"font-family:宋体;\">）“自动划拨规则查询”页面为启用状态的有“停用”操作，点击“停用”按钮，该规则由启用变为停用。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20161115134838-c9edaec0a7584d54b2b16b7a40269d98.png\" alt=\"\" />\n</p>",
+            "title": "3、资金划拨规则启用/停用"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">此页面显示所有待审核的资金划拨手工单，点击“审核”按钮打开资金划拨手工单审核详情页面，输入审核意见进行审核（通过或拒绝）或取消。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160048-6328c56ac07f4443846038176f47a15f.png\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160055-87158dd35c124d68b0139042cfb4d89e.png\" alt=\"\" /><br />\n<span style=\"font-family:宋体;\"></span> \n</p>",
+            "title": "4、资金划拨手工单审核（审核人员可见）"
+        }
+    }
+]

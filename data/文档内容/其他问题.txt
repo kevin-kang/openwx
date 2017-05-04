@@ -1,0 +1,38 @@
+[
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\" style=\"text-align:left;\" align=\"left\">\n\t<span style=\"font-family:宋体;color:black;\">解决办法一：点击页面右上角“帮助中心—联系我们”，通知客服，并说明问题情况</span><span style=\"color:black;\"></span> \n</p>\n<span style=\"font-family:宋体;color:black;\">解决办法二：联系翼启云服官方总站客服，说明情况。</span>",
+            "title": "客服电话无法接通或客服邮箱无法发送邮件时怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">原卡进出，资金安全有保证。</span>",
+            "title": "如何保障用户资金安全?"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">支持总部转账与分公司代发两种方式；通过我司集团网银进行代付费率低、到账快；保证大额支付顺利进行。</span>",
+            "title": "企业结算的代发工资有何优势？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">操作简单容易上手；多端同步高效处理；数据加密安全护驾；流程托管实时传递；信息透明精确掌控。</span>",
+            "title": "页面功能上特色有哪些？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">有。用户可对账户收付情况实时监控；定时获取银行交易数据实时清算；</span><span>7*24</span><span style=\"font-family:宋体;\">小时实时交易查询。</span>",
+            "title": "交易结算有时效性吗？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">能。业务覆盖</span><span>7*24</span><span style=\"font-family:宋体;\">小时实时交易查询。</span>",
+            "title": "晚上9点以后是否还能进行业务处理？"
+        }
+    }
+]

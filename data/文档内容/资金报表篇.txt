@@ -1,0 +1,32 @@
+[
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">点击首页导航“资金报</span><span></span><span style=\"font-family:宋体;\">表--资金分布</span><span>-</span><span style=\"font-family:宋体;\">企业资金分布表”，输入查询条件，</span><span><span> </span></span><span style=\"font-family:宋体;\">点击“查询”按钮，即可查看到当前用户下，该企业的资金情况。如图所示。</span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160440-107d4b21aed149998026d465651cb5a9.png\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "1、查询企业资金分布"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">点击首页导航“资金报表-<span style=\"font-family:宋体;\">资金分布</span><span>-</span><span style=\"font-family:宋体;\">银行资金分布表</span>”，</span><span></span><span style=\"font-family:宋体;\">即可查看到当前用户下，各银行账户的资金情况。如图所示。</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160514-005897fbb67c46ae80cf3e0777e24dbe.png\" alt=\"\" /><br />\n<span style=\"font-family:宋体;\"></span> \n</p>",
+            "title": "2、查询银行资金分布"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">点击首页“资金报表-资金流量</span><span>-</span><span style=\"font-family:宋体;\">企业日资金流量</span><span style=\"font-family:宋体;\">”，输入查询条件，</span><span><span> </span></span><span style=\"font-family:宋体;\">点击“查询”按钮，可进入“企业日资金流量图”界面。</span><span></span><span style=\"font-family:宋体;\">选择查询时间段</span><span style=\"font-family:宋体;\">，可查看该时间段内企业的</span><span style=\"font-family:宋体;\">日资金流量情况：分数列和图表两种呈现形式，可点击右上角图标进行自由切换查看。如图所示。</span> \n</p>\n<p>\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160621-df90086fb2fd4711b176b4e0ef2419a4.png\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "3、查询企业资金流量"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\"><span style=\"font-size:10.5pt;font-family:宋体;\">点击首页导航“资金报表-</span><span style=\"font-size:14px;\">资金流量</span></span><span style=\"font-size:14px;\">-</span><span style=\"font-family:宋体;font-size:14px;\">账户日资金流量</span><span style=\"font-family:宋体;font-size:14px;\">”，输入查询条件。</span><span></span><span style=\"font-size:10.5pt;font-family:宋体;\">点击“查询”按钮，进入“账户日资金流量图”界面。</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160654-41dd8f22861347d4a87e6bbb44818e8c.png\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160702-14c31464ce2843859037ddcd1fb90b24.png\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160716-2c29f75b1f9f4d458b3cf6f09831d97f.png\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160722-973b275af10642f1ac1fc99aaf7f7f12.png\" alt=\"\" />\n</p>\n<p>\n\t<br />\n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-size:10.5pt;font-family:宋体;\">选择查询时间段</span><span style=\"font-size:10.5pt;font-family:宋体;\">，可查看该时间段内账户的</span><span style=\"font-size:10.5pt;font-family:宋体;\">日资金流量情况：分数列和图表两种呈现形式，可点击右上角图标进行自由切换查看。如图所示。</span> \n</p>\n<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160734-89dc7e268a0a4588a4ab33eff6b436d9.png\" alt=\"\" /><br />\n<span style=\"font-size:10.5pt;font-family:宋体;\"></span> \n<p>\n\t<br />\n</p>",
+            "title": "4、查询账户资金流量"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;font-size:14px;\">点击首页导航“资金报表-收支对比</span><span style=\"font-size:14px;\">-</span><span style=\"font-family:宋体;font-size:14px;\">企业收支对比</span><span style=\"font-family:宋体;\"><span style=\"font-size:14px;\">”，进入收支对比查询界面，输入查询条件。</span><span style=\"font-size:10.5pt;font-family:宋体;\">点击“查询”按钮，进入“企业收支对比图”界面。</span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\"><span style=\"font-size:10.5pt;font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160754-ad3ca23d7a5a430cb12ab03c2ac57b25.png\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160800-9a973ac753e445fd9fb2506ee7fbcf9c.png\" alt=\"\" /><br />\n</span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\"><span style=\"font-size:10.5pt;font-family:宋体;\"><span style=\"font-family:宋体;\">选择查询时间段</span><span style=\"font-family:宋体;\">，可查看该时间段内企业的收支对比情况</span><span style=\"font-family:宋体;\">：分数列和图表两种呈现形式，可点击右上角图标进行自由切换查看。如图所示。</span></span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\"><span style=\"font-size:10.5pt;font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920160812-475ad403484244f688d053e45fd5e147.png\" alt=\"\" /><br />\n</span></span> \n</p>",
+            "title": "5、查询企业收支对比"
+        }
+    }
+]

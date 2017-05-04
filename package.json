@@ -4,7 +4,7 @@
   "description": "base-package",
   "main": "gulpfile.js",
   "scripts": {
-    "dev": "node run.js --devtool eval --progress --colors",
+    "dev": "supervisor run.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kevin",
@@ -15,37 +15,52 @@
     ]
   },
   "devDependencies": {
-    "babel-cli": "^6.10.1",
-    "babel-core": "^6.10.4",
-    "babel-plugin-transform-runtime": "^6.9.0",
-    "babel-preset-es2015": "^6.9.0",
-    "babel-preset-es2015-node5": "^1.2.0",
-    "babel-preset-stage-0": "^6.5.0",
-    "babel-preset-stage-3": "^6.11.0",
-    "babel-register": "^6.9.0",
-    "babel-runtime": "^6.9.2",
-    "ejs": "^2.4.2",
+    "babel": "latest",
+    "babel-core": "latest",
+    "babel-plugin-transform-runtime": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-es2015-node5": "latest",
+    "babel-preset-stage-2": "latest",
+    "cookie-parser": "^1.4.3",
+    "echarts": "latest",
     "fastclick": "^1.0.6",
-    "jade": "^1.11.0",
+    "graceful-fs": "latest",
+    "gulp": "latest",
+    "gulp-changed": "latest",
+    "gulp-clean": "latest",
+    "gulp-connect": "latest",
+    "gulp-plumber": "latest",
+    "gulp-util": "latest",
+    "iconv-lite": "^0.4.17",
+    "jquery": "latest",
+    "jquery.cookie": "latest",
     "koa": "^2.0.0",
     "koa-bodyparser": "^2.2.0",
     "koa-compress": "^1.0.9",
+    "koa-connect-history-api-fallback": "^0.3.1",
+    "koa-convert": "^1.2.0",
+    "koa-cookie": "^1.0.0",
     "koa-cors": "0.0.16",
     "koa-logger": "^1.3.0",
     "koa-router": "^7.0.1",
-    "koa-sass-middleware": "^1.0.0",
     "koa-send": "^3.2.0",
     "koa-static": "^2.0.0",
+    "koa-static-cache": "^3.1.7",
     "koa-views": "^5.0.2",
+    "later": "^1.2.0",
     "lodash": "latest",
     "md5": "latest",
+    "minimatch": "latest",
     "node-fetch": "^1.5.3",
-    "pug": "latest"
+    "node-sass": "latest",
+    "pug": "^2.0.0-beta3"
+  },
+  "dependencies": {
+    "babel-core": "latest",
+    "babel-preset-es2015": "latest",
+    "iconv": "^2.2.3"
   },
   "keywords": [
     ""
-  ],
-  "dependencies": {
-    "koa-scss": "^0.2.0"
-  }
+  ]
 }

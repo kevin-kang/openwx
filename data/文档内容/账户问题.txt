@@ -1,0 +1,50 @@
+[
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">正常情况下，交易成功后，银行账户查询中可见，如果尚未查询到，<span style=\"color:black;\">请拨打</span></span><span style=\"font-size:10.5pt;font-family:&quot;color:black;\">400</span><span style=\"font-size:10.5pt;font-family:宋体;color:black;\">客服热线，或者联系在线客服反馈。</span>",
+            "title": "交易成功后，银行账户流水明细中没有查询到，该怎么办？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;color:black;\">交易成功后，可在“首页</span><span style=\"color:black;\">-</span><span style=\"font-family:宋体;color:black;\">账户查询</span><span style=\"color:black;\">-</span><span style=\"font-family:宋体;color:black;\">内部账户”中查看流水信息。</span><span style=\"color:black;\"></span>\n</p>",
+            "title": "产生的资金划拨业务，该去哪里查询流水明细呢？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;color:black;\">系统默认为当日数据，如果查询的是往期数据，需要手动选择时间段。如下图</span><span style=\"color:black;\"></span> \n</p>\n<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920145128-39e8eeb8ac384a44af480cf92943dec8.png\" alt=\"\" /><br />",
+            "title": "账户余额的明细查询页面为何没有往日数据？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">没有，只有基本户才有代发工资业务。</span>",
+            "title": "如果是一般户，是否有代发工资业务数据？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">可以导出，但只有字段值，无数据。</span><span></span>\n</p>",
+            "title": "如果查询结果为空的话，导出的数据是什么？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">代发工资、企业报销、企业付款业务无法查询内部账户余额，原因是它们没有内部账户。只有资金划拨业务才有内部账户，可以查询到余额。</span>",
+            "title": "什么情况下无法查询到内部账户余额？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">拥有资金划拨业务的企业才会有内部账号，而内部账号是系统自动生成，不可更改。</span><span></span>\n</p>",
+            "title": "内部账号从何而来，是否可以更改？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">银行账户查询只能查询到在系统后台配置的银行卡上的数据信息，未绑定的将查询不到。</span>",
+            "title": "为何查询不到同一家企业的所有银行账户明细？"
+        }
+    }
+]

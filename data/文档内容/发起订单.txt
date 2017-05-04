@@ -1,0 +1,62 @@
+[
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）选择“首页</span><span>-</span><span style=\"font-family:宋体;\">支付结算”下拉菜单中的相关业务，进入该业务的“订单查询”页面。</span><span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）点击“新建”按钮，打开新建单笔业务订单，填写业务信息并提交审核。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">温馨提示：新建业务订单中，带有</span><span>*</span><span style=\"font-family:宋体;\">标记为必填项，否则无法提交审核。</span>",
+            "title": "如何创建业务单笔订单？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）创建方式为单笔创建、订单状态为处理中，审核状态为已拒绝的订单有修改操作。</span><span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）选择该业务的“订单查询”页面，将光标移动到“详情”按钮上会显示详情、修改和删除按钮。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">（</span><span>3</span><span style=\"font-family:宋体;\">）点击“修改”按钮打开修改订单页面，修改信息后提交审核。</span>",
+            "title": "如何修改已创建的业务订单？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">选择“首页</span><span>-</span><span style=\"font-family:宋体;\">支付结算</span><span>-</span><span style=\"font-family:宋体;\">资金划拨”，进入“资金划拨手工单查询”，点击“新建上划单”，填写带</span><span>*</span><span style=\"font-family:宋体;\">的内容，并提交审核。</span>",
+            "title": "成员企业如何转账给中心企业资金？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">选择“首页</span><span>-</span><span style=\"font-family:宋体;\">支付结算</span><span>-</span><span style=\"font-family:宋体;\">资金划拨”，进入“资金划拨手工单查询”，点击“新建下拨单”，填写带</span><span>*</span><span style=\"font-family:宋体;\">的内容，并提交审核。</span>",
+            "title": "中心企业如何转账给成员企业资金？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">无规范限制，此内容为必填项。</span>",
+            "title": "上划单/下拨单名称填写时是否有格式规范？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）选择首页“支付结算</span><span>-</span><span style=\"font-family:宋体;\">企业报销</span><span>-</span><span style=\"font-family:宋体;\">企业报销批次查询”，点击“模板下载”将报销数据信息录入，生成</span><span>.xlsx</span><span style=\"font-family:宋体;\">格式。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）点击“</span><span style=\"font-family:宋体;\">支付结算</span><span>-</span><span style=\"font-family:宋体;\">企业报销</span><span>-</span><span style=\"font-family:宋体;\">企业报销批次查询”中的“</span><span style=\"font-family:宋体;\">导入”按钮，打开导入弹框，选择企业名称和付款账号，上传同企业报销文件（</span><span>.xlsx</span><span style=\"font-family:宋体;\">格式），并提交审核。</span>",
+            "title": "如何给企业员工批量报销？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）选择首页“支付结算</span><span>-</span><span style=\"font-family:宋体;\">代发工资</span><span>-</span><span style=\"font-family:宋体;\">代发工资批次查询”，点击“模板下载”将工资数据信息录入，生成</span><span>.xlsx</span><span style=\"font-family:宋体;\">格式。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）点击“</span><span style=\"font-family:宋体;\">支付结算</span><span>-</span><span style=\"font-family:宋体;\">代发工资</span><span>-</span><span style=\"font-family:宋体;\">代发工资批次查询”中的</span><span style=\"font-family:宋体;\">“导入”按钮，打开导入弹框，选择企业名称和付款账号，上传该企业的代发工资文件（</span><span>.xlsx</span><span style=\"font-family:宋体;\">格式），并提交审核。</span>",
+            "title": "企业批量给员工发放工资，该如何操作？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）选择首页“支付结算</span><span>-</span><span style=\"font-family:宋体;\">企业付款</span><span>-</span><span style=\"font-family:宋体;\">企业付款批次查询”，点击“模板下载”将付款数据信息录入，生成</span><span>.xlsx</span><span style=\"font-family:宋体;\">格式。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）点击“</span><span style=\"font-family:宋体;\">支付结算</span><span>-</span><span style=\"font-family:宋体;\">企业付款</span><span>-</span><span style=\"font-family:宋体;\">企业付款批次查询”中的</span><span style=\"font-family:宋体;\">“导入”按钮，打开导入弹框，选择企业名称，上传同企业付款文件（</span><span>.xlsx</span><span style=\"font-family:宋体;\">格式），并提交审核。</span>",
+            "title": "如何批量付款？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">批次订单状态为处理中，审核状态为已拒绝的批次有删除操作。将光标移动到“详情”按钮上会显示详情和删除按钮（</span><span style=\"font-family:宋体;\">如图所示：</span><span style=\"font-family:宋体;\">），点击“删除”操作完成后提交审核。</span><span></span> \n</p>\n<p>\n\t<br />\n<img src=\"http://10.100.141.29/epm/images/helpCenterInfo/20160725121313-f87cb5eb154245b7b4314d97a6729339.png\" alt=\"\" /> \n</p>",
+            "title": "如何删除批次业务订单中的数据信息？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">点击首页支付结算，下拉菜单中选择相应业务类型，点击该业务批次查询页面后，点击“模板下载”，将文件保存到本地后录入相应的业务数据，并生成</span><span>.xlsx</span><span style=\"font-family:宋体;\">格式。</span> \n</p>",
+            "title": "企业各项业务模板在哪里？"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">不能。企业名称必须完整准确查询，否则匹配不到。</span>",
+            "title": "查询订单时，企业名称输入有误，能否查询到订单结果?"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">可以的。点击“首页</span><span style=\"font-size:10.5pt;font-family:&quot;\">-</span><span style=\"font-size:10.5pt;font-family:宋体;\">支付结算”中业务类型，进入业务的“订单查询”页面，点击“导出”按钮，保存到本地。</span>",
+            "title": "订单查询结果是否可以导出到本地？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">能。可以查询到从输入的日期开始到当日的所有数据。</span>",
+            "title": "查询订单时，只输入部分时间能否查询到订单结果？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">不能。收款账号和付款账号都必须正确输入，否则匹配不到。</span>",
+            "title": "查询订单时，账号输入有误，能否查询到订单结果?"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）由于资金划拨是中心企业和成员企业间的资金交易，所以可根据中心企业</span><span>/</span><span style=\"font-family:宋体;\">成员企业名称或账号查询订单业务。</span><span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）可根据结算中心名称查询，只能查询到系统后台登记的结算中心信息。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">（</span><span>3</span><span style=\"font-family:宋体;\">）还可以通过划拨方式查询。</span>",
+            "title": "区别于其他业务，资金划拨有哪些新增的查询条件？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>1</span><span style=\"font-family:宋体;\">）资金划拨手工单查询：可查询门户中新建的手工划拨单。</span><span></span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">（</span><span>2</span><span style=\"font-family:宋体;\">）系统单查询：可查询系统后台建立的划拨单。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">（</span><span>3</span><span style=\"font-family:宋体;\">）自动划拨规则查询：可查询系统后台建立的资金划拨规则。</span>",
+            "title": "资金划拨查询页面可查询哪些信息？"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">资金划拨操作员可查询各项业务的订单详情。</span><span></span> \n</p>\n<span style=\"font-family:宋体;\">资金划拨审核员可查询各项业务的审核详情。</span>",
+            "title": "资金划拨操作员和审核员能查询哪些信息？"
+        }
+    }
+]

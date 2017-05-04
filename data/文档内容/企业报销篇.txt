@@ -1,0 +1,38 @@
+[
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"line-height:130%;font-family:宋体;\">选择“首页导航</span><span style=\"line-height:130%;font-family:&quot;\">-</span><span style=\"line-height:130%;font-family:宋体;\">支付结算</span><span style=\"line-height:130%;font-family:&quot;\">-</span><span style=\"line-height:130%;font-family:宋体;\">企业报销”，点击“订单查询”页面</span><span style=\"line-height:130%;font-family:&quot;\">-</span><span style=\"line-height:130%;font-family:宋体;\">“新建”按钮，打开新建单笔企业报销订单，输入报销信息并提交审核<span style=\"color:red;\">（</span></span><span style=\"line-height:130%;font-family:&quot;color:red;\">*</span><span style=\"line-height:130%;font-family:宋体;color:red;\">号为必填项）</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"line-height:130%;font-family:宋体;\">：</span><br />\n<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163038-8ccef02548aa4f05b3704838b942c94e.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163059-cda54379a5fc4df5841d8474b6354d16.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163113-0b25bfa3edd6443c8979ab12d7313756.jpg\" alt=\"\" />\n</p>",
+            "title": "1、单笔订单新建业务"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">进入企业报销订单查询页面，单击“高级筛选”按钮，输入查询条件，点击“查询”按钮，</span><span style=\"font-family:宋体;\">弹出业务订单</span><span style=\"font-family:宋体;\">，点击订单右侧“详情”按钮，查看订单详细内容。如图所示：</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163144-c118d6557fd448808f21c8ded5e07c64.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163150-666cd9d8afc848fbbcd17d7979ca3528.jpg\" alt=\"\" /><br />\n<span style=\"font-family:宋体;\"></span> \n</p>",
+            "title": "2、报销单笔订单查询"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择首页导航“支付结算</span><span style=\"font-family:&quot;\">--</span><span style=\"font-family:宋体;\">企业报销”，</span><span style=\"font-family:宋体;\">点击“企业报销</span><span style=\"font-family:&quot;\">--</span><span style=\"font-family:宋体;\">批次查询”页面模板下载按钮下载模板，并按照模板格式填写相关信息。</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163856-4feb213db78441a89d939585e07c36ac.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163902-a0a4da0b774043f7b70497d27cff7dff.jpg\" alt=\"\" />\n</p>\n<p>\n\t<span style=\"font-family:宋体;\">点击“企业报销--批次查询”页面</span><span style=\"font-family:&quot;\"></span><span style=\"font-family:宋体;\">“导入”按钮，打开导入弹框，选择相关信息，（</span><span style=\"font-family:&quot;\">*</span><span style=\"font-family:宋体;\">号为必填项）点击“上传”按钮，并提交审核。（</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">）</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163923-34294f2c8a284ef4aa4a79066060daaa.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920163933-fb4b9078c5114c428552cf0a1965a001.jpg\" alt=\"\" />\n</p>",
+            "title": "3、批次订单导入业务"
+        }
+    },
+    {
+        "post": {
+            "content": "<p>\n\t<span style=\"font-family:宋体;\">选择“首页导航</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">支付结算</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">企业报销”项，</span><span style=\"font-family:宋体;\">进入“企业报销批次查询”页面</span><span style=\"font-family:宋体;\">，输入查询条件，点击“查询”按钮，</span><span style=\"font-family:宋体;\">弹出业务订单</span><span style=\"font-family:宋体;\">，点击订单右侧“详情”按钮，查看订单详细内容。如图所示：</span> \n</p>\n<p>\n\t<img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920164004-895bfa763321411fa54a242dbc56c655.jpg\" alt=\"\" /><br />\n<span style=\"font-family:宋体;\"></span> \n</p>",
+            "title": "4、企业报销批次查询"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">选择“首页导航</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">业务审核</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">企业报销”项，进入“</span><span style=\"font-family:宋体;\">审核订单查询”页面，此页面显示所有待审核的企业报销订单，每笔订单末尾都有审核按钮，点击“审核”按钮，输入审核意见（必填）进行审核（通过或拒绝）或取消。</span><span style=\"font-family:宋体;\">如图所示</span><span style=\"font-family:宋体;\">：</span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920164039-367a15c659924d43a7c6fd9f45e2d26e.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920164045-c2088fe13cca423882b8f5964ff60870.jpg\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "5、审核单笔订单业务（审核人员可见）"
+        }
+    },
+    {
+        "post": {
+            "content": "<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\">选择“</span><span style=\"font-family:宋体;\">业务审核</span><span style=\"font-family:&quot;\">-</span><span style=\"font-family:宋体;\">企业报销”项，进入“企业报销审核批次查询”页面，每笔订单末尾都有审核按钮，点击“审核”按钮，输入审核意见（必填）进行审核（通过或拒绝）或取消。</span><span style=\"font-family:宋体;\">如图所示：</span> \n</p>\n<p class=\"MsoNormal\">\n\t<span style=\"font-family:宋体;\"><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920164106-cfd5e6edc81343deb9eb5c84b7b54016.jpg\" alt=\"\" /><img src=\"http://file.yixin.com/epm/images/helpCenterInfo/20160920164115-4de71d91a7664db48b114dc2c9bb9fb7.jpg\" alt=\"\" /><br />\n</span> \n</p>",
+            "title": "6、审核批次订单业务（审核人员可见）"
+        }
+    }
+]

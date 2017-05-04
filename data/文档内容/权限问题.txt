@@ -1,0 +1,50 @@
+[
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">请联系配置员在系统后台配置结算中心企业。</span>",
+            "title": "新建划拨单时，为何结算中心列表中没有企业名称信息？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">代发工资操作员能看到导航</span><span>-</span><span style=\"font-family:宋体;\">“支付结算”菜单的新建、详情按钮，</span> <span style=\"font-family:宋体;\">导航中的“业务审核”菜单不可见。</span>",
+            "title": "代发工资操作权限能看到什么？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">代发工资审核员能看到导航</span><span>-</span><span style=\"font-family:宋体;\">“业务审核”里的“审核”按钮。</span>",
+            "title": "代发工资审核权限能看到什么？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">所有权限的信息都能看到。</span>",
+            "title": "门户操作审核岗能看到什么？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">只能看到“支付结算”菜单内所有业务的操作，“业务审核”菜单不可见。</span>",
+            "title": "门户操作岗有哪些权限？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-family:宋体;\">不能。审核权限人员将看不到“新建”按钮。</span>",
+            "title": "具有资金划拨审核权限人员能否新建业务订单？"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">只要有划拨业务，系统后台将会配置内部账户，可以查询到内部账户交易数据。</span>",
+            "title": "资金划拨的账户权限?"
+        }
+    },
+    {
+        "post": {
+            "content": "<span style=\"font-size:10.5pt;font-family:宋体;\">没有。</span>",
+            "title": "企业账户如果在后台没有银行卡号配置，是否有银行账户数据？"
+        }
+    }
+]
