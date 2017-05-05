@@ -120,6 +120,7 @@ const sign = async ctx => {
             console.log('生成RSA签名成功! RSA:' + signStr);
         }
 
+
         if (!signStr) {
             result.status = 300;
             result.msg = '签名失败';
@@ -250,99 +251,10 @@ const licaiagent = async ctx => {
     ctx.body = datajson;
 };
 
-
-const requestPost = async (opts) => {
-    
-    return new Promisre((resolve, reject) => {
-        let postData = JSON.stringify(opts.data),
-            resData = '',
-            opt = {
-                hostname: opts.hostname || 'fql.kf5.com',
-                path: opts.path,
-                method: 'POST',
-                port: opts.port || 3000,
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                auth: 'service@fuqian.la:Fqlnn0128'
-            };
-
-        console.log(postData);
-
-        let req = http.request(opt, res => {
-                res.setEncoding('utf8');
-                res.on('data', data => {
-                    resData += data;
-                }).on('end', () => {
-                    resolve(resData);
-                }).on('error', (e) => {
-                    reject('请求错误');
-                });
-            });
-
-            console.log(opts.data);
-            // req.write();
-            req.end(postData);
-
-    });
-}
-
-const postHelp = ctx => {
-
-    let JGarrData = iconv.decode(helpDataJG,'GBK').toString();
-
-    // console.log(Array.isArray(JSON.parse(JGarrData)));
-    // 
-    let opts = {
-        // hostname: '127.0.0.1',
-        port: 80,
-        path: 'apiv2/forums.json'
-    };
-
-    // console.log(JSON.parse(JGarrData));
-
-    JSON.parse(JGarrData).forEach(vi => {
-        
-
-        var exec = require('child_process').exec; 
-        var cmdStr = 'curl https://fql.kf5.com/apiv2/forums.json \ -H "Content-Type: application/json" -d ' + JSON.stringify(vi) + ' \ -v -u service@fuqian.la:Fqlnn0128 -X POST';
-
-        console.log(exec);
-        
-        exec(cmdStr,  (error, stdout, stderr) => {
-          console.error(`exec error: ${error}`);
-          console.log(`stdout: ${stdout}`);
-          console.log(`stderr: ${stderr}`);
-        });
-
-    });
-    // 
-    
-
-   
-
-    
-
-    // sucData = await requestPost({
-    //     hostname: '127.0.0.1',
-    //     path: '/testCookie',
-    //     data: {
-    //         "forum": {
-    //             "category_id": "101",
-    //             "content": "",
-    //             "role_view": "all",
-    //             "title": "测试错误"
-    //         }
-    //     }
-    // });
-    ctx.body = 'ok';
-};
-
 index.post('/sign', sign)
      .post('/testCookie', testCookie)
      .post('/signsupport', signsupport)
      .post('/licaiagent/*', licaiagent)
-     .post('/posthelp', postHelp)
      .get('/', renderIndex);
 
 export default index;
