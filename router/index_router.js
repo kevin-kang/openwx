@@ -239,12 +239,12 @@ const testCookie = async ctx => {
 };
 
 const licaiagent = async ctx => {
-    const data = proxy('http://10.100.140.42:8081/enjoyfinance-web' + ctx.request.url.replace(/\/licaiagent/g, ''), {
-            method: 'post',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(ctx.request.body)
+    console.log(JSON.stringify(ctx.request));
+    const data = proxy('http://10.100.147.30:8080/h5_redirect' + ctx.request.url.replace(/\/h5_redirect/g, ''), {
+            method: 'get'
+            // headers: {
+            //     'Content-Type': 'application/json'
+            // }
         }),
         datajson = await data;
 
@@ -254,7 +254,7 @@ const licaiagent = async ctx => {
 index.post('/sign', sign)
      .post('/testCookie', testCookie)
      .post('/signsupport', signsupport)
-     .post('/licaiagent/*', licaiagent)
+     .get('/h5_redirect', licaiagent)
      .get('/', renderIndex);
 
 export default index;
