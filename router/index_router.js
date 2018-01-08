@@ -239,7 +239,9 @@ const testCookie = async ctx => {
 };
 
 const licaiagent = async ctx => {
+    
     console.log(JSON.stringify(ctx.request));
+
     const data = proxy('http://10.100.147.30:8080/h5_redirect' + ctx.request.url.replace(/\/h5_redirect/g, ''), {
             method: 'get'
             // headers: {
